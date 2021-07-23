@@ -1,4 +1,3 @@
-//formHandler.js minifier
 $(function()
 {	
 	$("input,textarea").jqBootstrapValidation(
